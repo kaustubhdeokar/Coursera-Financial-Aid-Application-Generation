@@ -9,3 +9,5 @@ To generate the script:-
  4. That's it !!!.
 
  `courseraApp` file will contain the coursera financial Aid application. 
+
+### If you want to use this again, copy the text in refresh file in courseraApp file and follow the steps again.
